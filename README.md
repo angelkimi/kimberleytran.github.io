@@ -7,6 +7,4 @@ There are also additional link and self made images within the website that is c
 But this is also for assignment 1 for web application development.
 
 Credits:  
-Website Template: html5 up 
-Image gallery code: W3 Schools - https://www.w3schools.com/css/css_image_gallery.asp
-Banner image: Unsplash - https://unsplash.com/photos/Vey6fioB1eI 
+Website Template: html5 up / Image gallery code: W3 Schools - https://www.w3schools.com/css/css_image_gallery.asp / Banner image: Unsplash - https://unsplash.com/photos/Vey6fioB1eI 
